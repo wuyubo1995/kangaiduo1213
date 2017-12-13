@@ -1,0 +1,313 @@
+#s-box{
+	background: #fff;
+	width: 100%;
+	color: #808080;
+	height: 100%;
+}
+.clear{
+    zoom: 1;
+	clear: both;
+}
+/*-----------------------------header-------------------------*/
+#s-box .s-header{
+	height: 1.34rem;
+	min-width: 6rem;
+	padding: .2rem .1rem .2rem .2rem;
+	border-bottom: 1px solid #d3d3d3;
+	text-align: center;
+}
+#s-box .s-logo{
+	float: left;
+}
+#s-box .s-logo a{
+	display: block;
+	width: 1.88rem;
+	height: 1rem;
+	background: url(../img/logo.png) no-repeat;
+	background-size: 1.88rem .9rem;
+}
+#s-box .header-t{
+    padding-top: .25rem;
+    text-align: center;
+    font-size: .32rem;
+    color: #000;
+    margin-right: .38rem;
+    display: inline-block;
+}
+#s-box .header-r{
+	float: right;
+    margin: .26rem .14rem 0 0;
+    height: .44rem;
+}
+#s-box .header_ser{
+    display: inline-block;
+    width: .44rem;
+    height: .44rem;
+    margin-right: -0.02rem;
+    background: url(http://res1.360kad.com/theme/mobile/img/search.png) no-repeat;
+    background-size: .42rem .42rem;
+}
+#s-box .header_shop{
+    display: inline-block;
+    height: 0.44rem;
+    min-width: 0.26rem;
+    background: url(http://res1.360kad.com/theme/mobile/img/gwuche.jpg) no-repeat;
+    background-size: 0.56rem 0.46rem;
+    line-height: .32rem;
+    font-size: .24rem;
+    padding-left: .66rem;
+    position: relative;
+}
+#s-box .shop-num{
+	color:#fff;
+	background-color: #fc5353;
+	border-radius: 0.9rem;
+    position: absolute;
+    text-align: center;
+    padding: 0 .06rem;
+    max-width: .42rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-left: -0.24rem;
+    margin-top: -0.04rem;
+}
+/*-----------------nav----------------------*/
+.s-nav{
+	min-width: 6rem;
+    padding: 0 .2rem;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.s_img{
+	display: block;
+    width: 100%;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+.s_img img{
+	width: 100%;
+}
+.sign_box{
+	margin: .18rem auto 0 auto;
+}
+.sign_box p{
+	text-align: left;
+	color: #000;
+	font-size: .28rem;
+	height: .42rem;
+}
+.sign_box a{
+	border-radius: 0.1rem;
+	height: .88rem;
+	line-height: 0.9rem;
+	font-size: .32rem;
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	margin: .2rem 0;
+	background-color: #cd1212; 
+	color:#fff;
+}
+.sign_box span{
+	color: #1b7cc1;
+}
+.sign_box i{
+    font-style: normal;
+}
+.rule_box{
+    padding: 8px 5px;
+    margin: 10px 0;
+    background-color: #ebebeb;
+    border-radius: 5px;
+    font-size: .28rem;
+}
+.rule_box p{
+    color: #8f8d8d;
+    line-height: 22px;
+}
+/*----------------------footer-------------------------*/
+#s-box .n-footer{
+    min-width: 6.4rem;
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+    text-align: center;
+}
+#s-box .padd{
+    padding: 7px 11px 0 11px;
+    line-height: 195%;
+    font-size: .28rem;
+}
+#s-box .padd span a{
+	display: inline-block;
+    float: left;
+    color: #1b7ce3;
+    font-size: 14px;
+    padding-right: 5px;
+}
+#s-box .backtp{
+    display: inline-block;
+    float: right;
+    color: #7d7d7d;
+    background: url(http://res2.360kad.com/theme/mobile/img/shouye.png) no-repeat left;
+    background-size: .34rem .3rem;
+    text-indent: 0.4rem;
+    font-size: .28rem;
+}
+#s-box .fot{
+    /*margin: 0 auto;
+    width: 100%;*/
+    line-height: 200%;
+    font-size: .24rem;
+}
+#s-box .fot ul{
+	display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+}
+#s-box .fot li{
+    display: inline-block;
+	float: left;
+}
+#s-box .fot li a{
+    display: inline-block;
+    padding: 0 0.04rem;
+    color: #b8b8b8;
+}
+#s-box .grycol{
+	padding-left: .06rem;
+    display: inline-block;
+}
+#s-box .app_down{
+	max-width: 12.8rem;
+	min-width: 6.4rem;
+	width: 100%;
+	margin: 0 auto;
+}
+#s-box .app_down a{
+	display: block;
+	margin: 0 auto .2rem;
+	padding-bottom: 0;
+	width: 93.75%;
+}
+#s-box .foot{
+	width: 5rem;
+    height: .6rem;
+    line-height: .6rem;
+    border-radius: .1rem;
+    margin: 0 auto;
+    color: #fff;
+}
+#s-box .foorPHon{
+    font-size: .3rem;
+    background: #97cc74 url(http://res3.360kad.com/theme/mobile/img/phone0910.png)no-repeat 24% center;
+    background-size: .48rem .6rem;
+}
+#s-box .foorPHon span{
+	margin-left: 0.8rem;
+}
+#s-box .footwx{
+    font-size: .24rem;
+    background: #3cb034 url(http://res4.360kad.com/theme/mobile/img/wxlogo.png) no-repeat 8% center;
+    background-size: .56rem .46rem;
+}
+#s-box .footwx span{
+    margin-left: .7rem;
+}
+#s-box #app_dowml{
+    font-size: .28rem;
+    line-height: 150%;
+}
+#s-box #app_dowml a{
+    color: #ff5500;
+}
+#s-box .footmess{
+    padding-top: 5px;
+    display: inline-block;
+    margin: 0 auto;
+    font-size: .24rem;
+    line-height: 170%;
+    color: #999;
+}
+#s-box .footmess li{
+    display: inline-block;
+    float: left;
+    margin-right: .1rem;
+}
+#s-box .radius45{
+	display: inline-block;
+    background: #1b7ce3;
+    border-radius: 50%;
+    color: #fff;
+    margin-right: .08rem;
+    padding: 0 .06rem;
+}
+#s-box .copyrg{
+    font-size: .24rem;
+    line-height: 175%;
+    color: #999;
+    width: 100%;
+    text-align: center;
+   padding-bottom: 1px;
+}
+.poput{
+    position: fixed;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0,0,0,.9);
+    text-align: center;
+    border-radius: .1rem;
+    box-shadow: 5px 5px 50px #000;
+    z-index: 9;
+}
+.poput_clik{
+    width: 22px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 2px;
+    right: 2px;
+}
+.remove{
+    padding: 20px 10px 8px 16px;
+    border-bottom: 1px #939393 solid;
+    color: #FFF;
+    font-size: 16px;
+    line-height: 28px;
+    text-indent: 34px;
+    text-align: left;
+}
+.remove span{
+    display: block;
+    width: 28px;
+    height: 28px;
+    margin: 0px;
+    background-image: url(http://res4.360kad.com/theme/mobile/img/qd_ico1.png);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    position: absolute;
+    left: 16px;
+    top: 20px;
+    background-position: 0px -28px;
+}
+.btn{
+    padding: 0.2rem;
+    height: 1rem;
+    width: 4.4rem;
+}
+#s-box .ok{
+    display: block;
+    margin: 0 auto;
+    background: #FFF;
+    width: 90px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #000;
+    -webkit-border-radius: 3px;
+}

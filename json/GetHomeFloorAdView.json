@@ -1,0 +1,384 @@
+[
+    {
+        "FloorId": "m_home_floor_nanke",
+        "FloorImg": "http://image.360kad.com/group1/M00/BA/5B/CgAgEVmRDXiAQczIAAA3NEIhPkw043.jpg",
+        "LunBoCode": "m_home_floor_nanke_lunbo",
+        "VideoCode": "m_home_floor_nanke_video",
+        "TextCode": "m_home_floor_nanke_text",
+        "LunBoList": [
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/5D/CgAgEFmRGCmAHtjBAABHeTnMMi4578.jpg",
+                "Link": "http://m.360kad.com/spzt/tfbf_m.shtml?kzone=souye_nanke_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/5D/CgAgEFmRFiOAd8X1AABGkE8f3W0626.jpg",
+                "Link": "http://m.360kad.com/spzt/nanxingbuyu_m.shtml?kzone=souye_nanke_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/5C/CgAgEVmRFL6AKTJ5AABavFDt44I159.jpg",
+                "Link": "http://m.360kad.com/spzt/m_ywzx.shtml?kzone=souye_nanke_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/5E/CgAgEFmRGqeAK_V1AABZ1xjeAj4763.jpg",
+                "Link": "http://m.360kad.com/spzt/qlxjb_m.shtml?kzone=souye_nanke_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/5D/CgAgEFmRGayALmK_AABZsn3Tsm4288.jpg",
+                "Link": "http://m.360kad.com/spzt/byyyjbk_m.shtml?kzone=souye_nanke_lunbo"
+            }
+        ],
+        "VideoList": [
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFVn6cjeAQiDlAAMG-o6PXPU880.gif",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3718263.shtml?kzone=souye_nanke_shiping"
+            },
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFFn6ckKAAmtVAABBg-XZhiY253.jpg",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3714205.shtml?kzone=souye_nanke_shiping"
+            }
+        ],
+        "TextList": [
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BA/FB/CgAgEVmTuseAVGqkAAALy1a403Y094.jpg",
+                "Title": "让男人越来越虚的不良习惯，很多人全占了！",
+                "Link": "http://m.360kad.com/jknews/jksc/nk/3681410.shtml?kzone=souye_nanke_wenzi"
+            },
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BA/FB/CgAgEVmTu1KAcv8EAAALa9Y4Sds972.jpg",
+                "Title": "意外！番茄中的这个成分居然可以保护前列腺炎",
+                "Link": "http://m.360kad.com/jknews/jksc/nk/3686624.shtml?kzone=souye_nanke_wenzi"
+            }
+        ]
+    },
+    {
+        "FloorId": "m_home_floor_fuke",
+        "FloorImg": "http://image.360kad.com/group1/M00/BA/FC/CgAgEFmTvJqAFp4LAAAtuSmqOD4979.jpg",
+        "LunBoCode": "m_home_floor_fuke_lunbo",
+        "VideoCode": "m_home_floor_fuke_video",
+        "TextCode": "m_home_floor_fuke_text",
+        "LunBoList": [
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/FD/CgAgEFmTvl2AJsJqAAAm4MwRn_8197.jpg",
+                "Link": "http://m.360kad.com/spzt/0602bqx_m.shtml?kzone=souye_fuke_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/FD/CgAgEVmTvzaAWjHJAABh2mehDjI288.jpg",
+                "Link": "http://m.360kad.com/spzt/yuejingbutiao.shtml?kzone=souye_fuke_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/FD/CgAgEVmTv8KAbPsQAABNx4q3_tU332.jpg",
+                "Link": "http://m.360kad.com/spzt/0617fkyz_m.shtml?kzone=souye_fuke_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/FE/CgAgEFmTwFGAPCL4AABeDrpo3Dc638.jpg",
+                "Link": "http://m.360kad.com/spzt/0709bycy_m.shtml?kzone=souye_fuke_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BA/FD/CgAgEVmTwRqANU0PAABH5vUuGm0163.jpg",
+                "Link": "http://m.360kad.com/spzt/0702yctl_m.shtml?kzone=souye_fuke_lunbo"
+            }
+        ],
+        "VideoList": [
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFVn6cmeAAYuzAABB11dzYno084.jpg",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3674485.shtml?kzone=souye_fuke_shiping"
+            },
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFVn6cpiAF9ZcAAMeLX2rbtw141.gif",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3674486.shtml?kzone=souye_fuke_shiping"
+            }
+        ],
+        "TextList": [
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/06/CgAgEFmT2tGASSS-AAALy1a403Y742.jpg",
+                "Title": "女性最重要的5个阶段，原来要这样做的！",
+                "Link": "http://m.360kad.com/jknews/jksc/fejk/3683781.shtml?kzone=souye_fuke_wenzi"
+            },
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/06/CgAgEFmT2yaAEz4FAAALa9Y4Sds719.jpg",
+                "Title": "孩子发烧怎么办？这几点知识家长须知",
+                "Link": "http://m.360kad.com/jknews/jksc/fejk/3686647.shtml?kzone=souye_fuke_wenzi"
+            }
+        ]
+    },
+    {
+        "FloorId": "m_home_floor_pifu",
+        "FloorImg": "http://image.360kad.com/group1/M00/BB/08/CgAgEVmT3lmAD2UPAAA0dIbBLRQ596.jpg",
+        "LunBoCode": "m_home_floor_pifu_lunbo",
+        "VideoCode": "m_home_floor_pifu_video",
+        "TextCode": "m_home_floor_pifu_text",
+        "LunBoList": [
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/09/CgAgEVmT4xOARZqxAABU5yUaAfA154.jpg",
+                "Link": "http://m.360kad.com/spzt/pysz2_m.shtml?kzone=souye_pifu_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/08/CgAgEFmT4SuAEb0yAAAzCd33Pqc821.jpg",
+                "Link": "http://m.360kad.com/spzt/0602cc_m.shtml?kzone=souye_pifu_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/08/CgAgEFmT4GyAPDY0AABWriHY3wM545.jpg",
+                "Link": "http://m.360kad.com/spzt/63626_m.shtml?kzone=souye_pifu_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/08/CgAgEVmT36eAVPjBAABGWJ8niHM506.jpg",
+                "Link": "http://m.360kad.com/spzt/121513_m.shtml?kzone=souye_pifu_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/08/CgAgEVmT4aiAXG2SAABUlyznCmA478.jpg",
+                "Link": "http://m.360kad.com/spzt/0617sb_m.shtml?kzone=souye_pifu_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/08/CgAgEVmT4hSAMLxbAABSPBhbJY4812.jpg",
+                "Link": "http://m.360kad.com/spzt/0606bc_m.shtml?kzone=souye_pifu_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/09/CgAgEVmT4qyAS1WRAABbd2ya9ww681.jpg",
+                "Link": "http://m.360kad.com/spzt/zjgr_m.shtml?kzone=souye_pifu_lunbo"
+            }
+        ],
+        "VideoList": [
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFFn6ctSAK3xTAAMZZMTTkGI437.gif",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3680919.shtml?kzone=souye_pifu_shiping"
+            },
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFVn6cumAYgoRAABFjmoRLNw938.jpg",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3680920.shtml?kzone=souye_pifu_shiping"
+            }
+        ],
+        "TextList": [
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/0A/CgAgEVmT5jOAIWa5AAALy1a403Y260.jpg",
+                "Title": "睡不醒的三伏天，肌肤如何活下去",
+                "Link": "http://m.360kad.com/jknews/jksc/amzq/3682660.shtml?kzone=souye_pifu_wenzi"
+            },
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/0A/CgAgEVmT5qWAB3qrAAALa9Y4Sds472.jpg",
+                "Title": "皮肤透露给你的6个疾病信号，99%的人都忽视",
+                "Link": "http://m.360kad.com/jknews/jksc/amzq/3686689.shtml?kzone=souye_pifu_wenzi"
+            }
+        ]
+    },
+    {
+        "FloorId": "m_home_floor_shenjing",
+        "FloorImg": "http://image.360kad.com/group1/M00/BB/0B/CgAgEFmT52KAE8VYAAA1kzb2g44245.jpg",
+        "LunBoCode": "m_home_floor_shenjing_lunbo",
+        "VideoCode": "m_home_floor_shenjing_video",
+        "TextCode": "m_home_floor_shenjing_text",
+        "LunBoList": [
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/0C/CgAgEVmT6a6AXdOSAABYFifex3s247.jpg",
+                "Link": "http://m.360kad.com/spzt/pjs0603_m.shtml?kzone=souye_shenjing_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/0C/CgAgEVmT6VeAL5zzAABZJNsG3bg439.jpg",
+                "Link": "http://m.360kad.com/spzt/zf0603_m.shtml?kzone=souye_shenjing_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/0B/CgAgEVmT6MmABgXIAABUccRrhMI487.jpg",
+                "Link": "http://m.360kad.com/spzt/dx0527_m.shtml?kzone=souye_shenjing_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/0C/CgAgEFmT6iSAXl4sAABQh05WJdY561.jpg",
+                "Link": "http://m.360kad.com/spzt/cd0609_m.shtml?kzone=souye_shenjing_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/0C/CgAgEVmT6oyAHhj7AABdYGVbM8c139.jpg",
+                "Link": "http://m.360kad.com/spzt/yyz0609_m.shtml?kzone=souye_shenjing_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/0C/CgAgEVmT6vCAK8PeAABLvSUzHiU055.jpg",
+                "Link": "http://m.360kad.com/spzt/jf0617_m.shtml?kzone=souye_shenjing_lunbo"
+            }
+        ],
+        "VideoList": [
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFVn6cwOACzyQAABCfkJmERU891.jpg",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3683613.shtml?kzone=souye_shenjing_shiping"
+            },
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFFn6cwuAUHvGAAMT1MggeNA530.gif",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3683605.shtml?kzone=souye_shenjing_shiping"
+            }
+        ],
+        "TextList": [
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/10/CgAgEVmT9DOAez6KAAALy1a403Y224.jpg",
+                "Title": "好睡眠可以“吃”出来，4个方法让你一觉到天亮",
+                "Link": "http://m.360kad.com/jknews/jksc/ysbj/3680776.shtml?kzone=souye_shenjing_wenzi"
+            },
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/10/CgAgEVmT9I-AOJueAAALa9Y4Sds639.jpg",
+                "Title": "老年痴呆已提前到55岁，这10个前兆不可忽视",
+                "Link": "http://m.360kad.com/jknews/jksc/mxb/pjs/3689007.shtml?kzone=souye_shenjing_wenzi"
+            }
+        ]
+    },
+    {
+        "FloorId": "m_home_floor_huxi",
+        "FloorImg": "http://image.360kad.com/group1/M00/BB/10/CgAgEVmT9YyADtiUAAAytBwMZ9g576.jpg",
+        "LunBoCode": "m_home_floor_huxi_lunbo",
+        "VideoCode": "m_home_floor_huxi_video",
+        "TextCode": "m_home_floor_huxi_text",
+        "LunBoList": [
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/10/CgAgEFmT9q2AeMX0AABW89lhTGU392.jpg",
+                "Link": "http://m.360kad.com/spzt/10088.shtml?kzone=souye_huxi_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/11/CgAgEFmT9wuACQ7OAABSEDOtJqA388.jpg",
+                "Link": "http://m.360kad.com/spzt/zqg_m.shtml?kzone=souye_huxi_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/11/CgAgEVmT912Aen1UAABlh3LObCk439.jpg",
+                "Link": "http://m.360kad.com/spzt/biyanzhuanti_m.shtml?kzone=souye_huxi_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BC/94/CgAgEVmamTqAJIjEAACJ5MAxF64820.jpg",
+                "Link": "http://m.360kad.com/spzt/zyj_m.shtml?kzone=souye_huxi_lunbo"
+            }
+        ],
+        "VideoList": [],
+        "TextList": [
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/12/CgAgEVmT-xCAVVwJAAALy1a403Y983.jpg",
+                "Title": "哮喘可控，别让它成为一辈子会呼吸的痛",
+                "Link": "http://m.360kad.com/jknews/jksc/mxb/hxk/3681556.shtml?kzone=souye_huxi_wenzi"
+            },
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/12/CgAgEFmT-32AVLRgAAALa9Y4Sds598.jpg",
+                "Title": "打响呼吸道感染预防保卫战",
+                "Link": "http://m.360kad.com/jknews/jksc/mxb/hxk/3682632.shtml?kzone=souye_huxi_wenzi"
+            }
+        ]
+    },
+    {
+        "FloorId": "m_home_floor_xinnao",
+        "FloorImg": "http://image.360kad.com/group1/M00/BB/12/CgAgEVmT_F2AbP3tAAA1sNtVWn0992.jpg",
+        "LunBoCode": "m_home_floor_xinnao_lunbo",
+        "VideoCode": "m_home_floor_xinnao_video",
+        "TextCode": "m_home_floor_xinnao_text",
+        "LunBoList": [
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/12/CgAgEVmT_ZuAK8vEAABXqQ7VyA0879.jpg",
+                "Link": "http://m.360kad.com/spzt/gxy0605M.shtml?kzone=souye_xinnao_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/13/CgAgEFmT_iGAbReZAABaG4yakGQ198.jpg",
+                "Link": "http://m.360kad.com/spzt/gxb0605M.shtml?kzone=souye_xinnao_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/13/CgAgEFmT_oGACsZGAABMpiCo26s844.jpg",
+                "Link": "http://m.360kad.com/spzt/gxz0605M.shtml?kzone=souye_xinnao_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/13/CgAgEVmT_saAQ9cVAABNauIh1Co013.jpg",
+                "Link": "http://m.360kad.com/spzt/tnb_m.shtml?kzone=souye_xinnao_lunbo"
+            }
+        ],
+        "VideoList": [
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/13/CgAgEVmUAJ-AcVVyAABG8WzWeh0473.jpg",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3678366.shtml?kzone=souye_xinnao_shiping"
+            },
+            {
+                "Pic": "http://image.360kad.com/group2/M00/03/3D/CgAgFFm4-PmAbphDAABFLvMohCE605.jpg",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3678368.shtml?kzone=souye_xinnao_shiping"
+            }
+        ],
+        "TextList": [
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/14/CgAgEFmUAliAFZomAAALy1a403Y384.jpg",
+                "Title": "高血压偏爱的5类人，有你吗？",
+                "Link": "http://m.360kad.com/jknews/jksc/mxb/sg/3682643.shtml?kzone=souye_xinnao_wenzi"
+            },
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/14/CgAgEVmUAqCAIxSWAAALa9Y4Sds894.jpg",
+                "Title": "最适合高血压吃的10种刮油食物，好吃不怕胖",
+                "Link": "http://m.360kad.com/jknews/jksc/mxb/sg/3682643.shtml?kzone=souye_xinnao_wenzi"
+            }
+        ]
+    },
+    {
+        "FloorId": "m_home_floor_fengshi",
+        "FloorImg": "http://image.360kad.com/group1/M00/BB/15/CgAgEFmUA0-ADP_mAAAqBrrlzFM739.jpg",
+        "LunBoCode": "m_home_floor_fengshi_lunbo",
+        "VideoCode": "m_home_floor_fengshi_video",
+        "TextCode": "m_home_floor_fengshi_text",
+        "LunBoList": [
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/15/CgAgEVmUBA-AQBmHAABMEVx767c917.jpg",
+                "Link": "http://m.360kad.com/spzt/lfs2017M.shtml?kzone=souye_fengshi_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/16/CgAgEVmUBfWAC5XLAABA_fKyBC4205.jpg",
+                "Link": "http://m.360kad.com/spzt/gzss2017M.shtml?kzone=souye_fengshi_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/16/CgAgEFmUBriAFogPAABcozKoZiU404.jpg",
+                "Link": "http://m.360kad.com/spzt/gzss2017APP.shtml?kzone=souye_fengshi_lunbo"
+            }
+        ],
+        "VideoList": [],
+        "TextList": [
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/17/CgAgEFmUCeKAf9_iAAALy1a403Y085.jpg",
+                "Title": "骨科专家从来不做这9个动作，而你每天都在做！",
+                "Link": "http://m.360kad.com/jknews/jksc/ysbj/3681407.shtml?kzone=souye_fengshi_wenzi"
+            },
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/17/CgAgEFmUCY2AOv73AAALa9Y4Sds422.jpg",
+                "Title": "关节经常“咔哒”响？这是骨骼在发出预警信号",
+                "Link": "http://m.360kad.com/jknews/jksc/mxb/fsb/3686755.shtml?kzone=souye_fengshi_wenzi"
+            }
+        ]
+    },
+    {
+        "FloorId": "m_home_floor_manbing",
+        "FloorImg": "http://image.360kad.com/group1/M00/BB/1A/CgAgEFmUDJGAMFQrAAAXLpVI2PE319.jpg",
+        "LunBoCode": "m_home_floor_manbing_lunbo",
+        "VideoCode": "m_home_floor_manbing_video",
+        "TextCode": "m_home_floor_manbing_text",
+        "LunBoList": [
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/1A/CgAgEFmUDiqAbUs4AABbWWpftwc850.jpg",
+                "Link": "http://m.360kad.com/spzt/103416.shtml?kzone=souye_manbing_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BC/94/CgAgEFmamViAOR3PAADQh5whbII764.jpg",
+                "Link": "http://m.360kad.com/spzt/xty_m.shtml?kzone=souye_manbing_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/1A/CgAgEFmUDb2AVkJeAABQxfkqjHU286.jpg",
+                "Link": "http://m.360kad.com/spzt/xhdky1_m.shtml?kzone=souye_manbing_lunbo"
+            },
+            {
+                "Pic": "http://image.360kad.com/group1/M00/BB/1A/CgAgEVmUDUqASMQOAABb7irBnog287.jpg",
+                "Link": "http://m.360kad.com/spzt/jiechangyan_m.shtml?kzone=souye_manbing_lunbo"
+            }
+        ],
+        "VideoList": [
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFFn6cqiAMMhyAALHI4c91_g813.gif",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3674487.shtml?kzone=souye_manbing_shiping"
+            },
+            {
+                "Pic": "http://image.360kad.com/group2/M00/13/D7/CgAgFVn6crqAVqp2AABN7mCV430157.jpg",
+                "Link": "http://m.360kad.com/jknews/jksc/sp/3678364.shtml?kzone=souye_manbing_shiping"
+            }
+        ],
+        "TextList": [
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/1C/CgAgEFmUEMaAeYsEAAALy1a403Y032.jpg",
+                "Title": "小小赶黄草：苗家心目中的护肝“神仙草”",
+                "Link": "http://m.360kad.com/jknews/jksc/ysbj/3680780.shtml?kzone=souye_manbing_wenzi"
+            },
+            {
+                "Logo": "http://image.360kad.com/group1/M00/BB/1C/CgAgEVmUEQuAGPFsAAALa9Y4Sds062.jpg",
+                "Title": "肝功能正常，为何查出肝癌晚期？",
+                "Link": "http://m.360kad.com/jknews/jksc/mxb/az/3682631.shtml?kzone=souye_manbing_wenzi"
+            }
+        ]
+    }
+]

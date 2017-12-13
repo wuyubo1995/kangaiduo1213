@@ -1,0 +1,89 @@
+{
+    "Code": "0",
+    "Message": "成功",
+    "Data": [
+        {
+            "WareSkuCode": "1314",
+            "WareName": "钙尔奇D 碳酸钙D3咀嚼片(Ⅱ) 300mg*30片",
+            "Pic180": "http://image.360kad.com/group1/M00/2D/2C/CgAgEFcqv_KAYUEMAAHCMrvkrK0605.jpg_180x180.jpg",
+            "Pic800": "http://image.360kad.com/group1/M00/2D/2C/CgAgEFcqv_KAYUEMAAHCMrvkrK0605.jpg",
+            "SalePrice": 22,
+            "MarketPrice": 28,
+            "Advertisement": "【尖货狂欢继续】豪礼钜惠，特价21元起/盒！本品用于妊娠和哺乳期妇女、更年期妇女、老年人、儿童等的钙补充剂，并帮助防治骨质疏松症。",
+            "IsRx": 0
+        },
+        {
+            "WareSkuCode": "73574",
+            "WareName": "必利劲 盐酸达泊西汀片 30mg*3片",
+            "Pic180": "http://image.360kad.com/group2/M00/01/0E/CgAgFFmwoeOABc9SAAEUxtsins0080.jpg_180x180.jpg",
+            "Pic800": "http://image.360kad.com/group2/M00/01/0E/CgAgFFmwoeOABc9SAAEUxtsins0080.jpg",
+            "SalePrice": 248,
+            "MarketPrice": 380,
+            "Advertisement": "【双11错开高峰，抢物流】原价248，下单立减50仅需198。6盒低至188元！下单送115元套套大礼包，送完即止！！",
+            "IsRx": 1
+        },
+        {
+            "WareSkuCode": "10000208810",
+            "WareName": "龙抬头 复方手参丸 0.3g*150粒",
+            "Pic180": "http://image.360kad.com/group1/M00/22/12/CgAgEFboEumACpUTAAKBYMB5dNY55.jpeg_180x180.jpg",
+            "Pic800": "http://image.360kad.com/group1/M00/9E/E4/CgAgEFkB8puAej5jAAKBYMB5dNY378.jpg",
+            "SalePrice": 498,
+            "MarketPrice": 623,
+            "Advertisement": "【返场1天，错过等1年】点击下方，领取现金券！低至458元起！满5盒立送价值98元肉苁蓉！温肾助阳。用于肾阳不足、阴精亏虚，阳痿遗精，或有失眠健忘。",
+            "IsRx": 1
+        },
+        {
+            "WareSkuCode": "999154",
+            "WareName": "999 小儿感冒颗粒 6g*10袋",
+            "Pic180": "http://image.360kad.com/group1/M00/1D/D6/CgAgEVapv0uAZSJJAAAgAJWAbuA94.jpeg",
+            "Pic800": "http://image.360kad.com/group1/M00/41/27/CgAgEFeaLPmAN-SUAAJ6gFKUeK073.jpeg",
+            "SalePrice": 11.8,
+            "MarketPrice": 16,
+            "Advertisement": "【尖货狂欢继续】特惠10.8元起/盒！本品疏风解表，清热解毒；用于小儿风热感冒，症见发热、头胀痛、咳嗽痰黏、咽喉肿痛；流感见上述证候者。",
+            "IsRx": 0
+        },
+        {
+            "WareSkuCode": "1286",
+            "WareName": "力度伸 维生素C泡腾片(柠檬味) 1g*10片",
+            "Pic180": "http://image.360kad.com/group1/M00/96/76/CgAgEFjczTOAS4UwAAGy_4noE5g651.jpg_180x180.jpg",
+            "Pic800": "http://image.360kad.com/group1/M00/96/76/CgAgEFjczTOAS4UwAAGy_4noE5g651.jpg",
+            "SalePrice": 39.8,
+            "MarketPrice": 48,
+            "Advertisement": "【厂家补货，健康节返场优惠继续】错过双11还有今天！29.8元起超低价，",
+            "IsRx": 0
+        },
+        {
+            "WareSkuCode": "33237",
+            "WareName": "江中 健胃消食片 0.8g*8片*4板",
+            "Pic180": "http://image.360kad.com/group1/M00/0C/32/CgAgEFYbcTKAMPpyAAKCoBw_eg436.jpeg_180x180.jpg",
+            "Pic800": "http://image.360kad.com/group1/M00/0C/32/CgAgEFYbcTKAMPpyAAKCoBw_eg436.jpeg",
+            "SalePrice": 9.9,
+            "MarketPrice": 16,
+            "Advertisement": "【返场弥补遗憾，错过等明年】低至9.9元，健胃消食。用于脾胃虚弱，消化不良，更多约惠~详情可咨询客服药师！",
+            "IsRx": 0
+        },
+        {
+            "WareSkuCode": "40507",
+            "WareName": "新天夫 益肾壮阳膏 12g/支",
+            "Pic180": "http://image.360kad.com/group1/M00/A6/CB/CgAgEFkjytaAPsoqAAGFImohak4596.jpg_180x180.jpg",
+            "Pic800": "http://image.360kad.com/group2/M00/05/97/CgAgFFnCFBmAcWm6AAGFImohak4041.jpg",
+            "SalePrice": 396,
+            "MarketPrice": 325,
+            "Advertisement": "【返场1天，错过等1年】低至180元/盒，满6盒以上赠价值87元活力茶+淫羊藿破壁饮片,满4盒以上赠价值49淫羊藿破壁饮片。",
+            "IsRx": 1
+        },
+        {
+            "WareSkuCode": "1010180590",
+            "WareName": "欧姆龙 红外额式体温计MC-720 1台",
+            "Pic180": "http://image.360kad.com/group1/M00/0A/FE/CgAgEVXq22eAK5MjAAAgAICkV3c33.jpeg",
+            "Pic800": "http://image.360kad.com/group1/M00/0A/FE/CgAgEFXq22eAVjDMAAKCoF6DLpI23.jpeg",
+            "SalePrice": 208,
+            "MarketPrice": 298,
+            "Advertisement": "【尖货狂欢继续】豪礼钜惠，特价208元！采用德国进口原装探头，一键式操作，吵闹的孩子也能快速准确测温；背光大屏幕显示，读数更为方便。",
+            "IsRx": 0
+        }
+    ],
+    "TotalCount": 69,
+    "TotalPage": 9,
+    "PageIndex": 1
+}

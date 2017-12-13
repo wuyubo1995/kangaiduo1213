@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0,user-scalable=no">
+	<title>物流查询</title>
+	<link rel="stylesheet" type="text/css" href="../css/transportation.css">
+	<link rel="stylesheet" type="text/css" href="../css/reset.css">
+	<script type="text/javascript" src="../jsUtil/rem.js"></script>
+</head>
+<body>
+	<div id="t-box">
+		<!-- 头部 -->
+		<header class="t-header">
+			<span class="header_l"><a href="###">首页</a></span>
+			<span class="header_t">物流查询</span>
+		</header>
+		<!-- 内容 -->
+		<div class="gird">
+			<p class="title">通过输入订单的收货人手机号码进行查询</p>
+			<div class="search clear">
+				<input type="text" placeholder="输入收货人手机号码" class="se_input se-tet">
+				<div class="se_btn"></div>
+			</div>
+			<div class="code">
+				<input type="text" maxlength="4" class="co_input se-tet" placeholder="输入验证码">
+				<div class="co_img"><img id="imgVerify" src="../img/w1.jpg"></div>
+			</div>
+			<div class="btn-submit disabled">查询</div>
+		</div>
+		<div class="grid-empty">
+            <p>该手机号码没有在送货中的订单 !</p>
+        </div>
+		<div class="grid-info"></div>
+		<footer class="t-foo">
+			<ul class="footmess clear">
+				<li><span class="radius45">正</span>正品保障</li>
+				<li><span class="radius45">隐</span>隐私配送</li>
+				<li><span class="radius45">专</span>专业药师</li>
+				<li><span class="radius45">付</span>货到付款</li>
+			</ul>
+			<p class="copyrg">copyright ©2010-2016 康爱多网上药店 版权所有</p>
+		</footer>
+	</div>
+</body>
+</html>
